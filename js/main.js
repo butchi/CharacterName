@@ -31,7 +31,7 @@
     });
 
     hideAll();
-    $('.character').show();
+    update()
   }
 
   function update() {
